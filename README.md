@@ -1,5 +1,4 @@
 # 통신
-## 라즈베리 파이 설정
 
 ### 1. 이미지와 같이 알맞게 연결
 ![connection](https://user-images.githubusercontent.com/48484742/70028240-78690a80-15e7-11ea-9091-35751f521c7a.JPG)
@@ -122,7 +121,7 @@ int main ()
 
 * 컴파일
 <pre> $ gcc uart_test.c -o uart_test –lwiringPi</pre>
-프로그램 실행
+* 프로그램 실행
 <pre> $ sudo ./uart_test </pre>
 
 ![9](https://user-images.githubusercontent.com/48484742/70028690-b0248200-15e8-11ea-8811-a499d5fe9165.jpg)
